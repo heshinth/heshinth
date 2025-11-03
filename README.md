@@ -3,6 +3,7 @@
 I'm a student studying **Artificial Intelligence & Data Science**, passionate about coding, problem-solving, and automation.  
 
 ## 🚀 Projects  
+- [**RAG Query System API**](https://github.com/heshinth/rag-query-system) – An intelligent API using Retrieval-Augmented Generation (RAG), Google Gemini, and Pinecone to answer complex questions directly from documents.
 - [**CMRL Passenger Data Scraper**](https://github.com/heshinth/CMRL-Passenger-Data-Scraper) – A Python scraper that collects Chennai Metro Rail passenger flow data.  
 - [**TidyFile**](https://github.com/heshinth/TidyFile) – A CLI tool for organizing files by type.  
 - [**FastAPI UV Template**](https://github.com/heshinth/fastapi-uv-template) – A production-ready FastAPI project template with Uvicorn, modular architecture, and JWT authentication.  
