@@ -2,7 +2,10 @@
 
 I'm a student studying **Artificial Intelligence & Data Science**, passionate about coding, problem-solving, and automation.  
 
-![My Tech Stack](https://skillicons.dev/icons?i=python,fastapi,docker,postgres,git,github,githubactions,vscode&theme=dark)
+## ⚒️ My Tech Stack
+<p align="center">
+ <img src=https://skillicons.dev/icons?i=python,fastapi,docker,postgres,git,github,githubactions,vscode&theme=dark />
+</p>
 
 ## 🚀 Projects  
 - [**RAG Query System API**](https://github.com/heshinth/rag-query-system) – A RAG-powered API for document Q&A, built with Gemini and Pinecone.
